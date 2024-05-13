@@ -29,6 +29,15 @@ pip install notebook
 2. Open the Jupyter Notebook file containing the automated labeling code.
 3. Follow the instructions within the notebook to preprocess images, extract features, and train DeepLabCut for insect leg labeling.
 
+## Data
+
+#### Dataset: 
+https://drive.google.com/drive/folders/1rxuHvFlQ4ven9V1TT5zHEgVI_E9YXwqJ?usp=sharing
+#### Video link: 
+https://drive.google.com/file/d/1-KQsPGZYodmbTWx4KCwTuCc6feRk_sa-/view?usp=drive_link
+#### h5 file link: 
+https://drive.google.com/drive/folders/1TJIuvt0RPs36f2FybO8PVRxfQlPos6Xx?usp=sharing
+
 ## Learning Reflection
 Throughout this project, we gained insights into the challenges and opportunities of automating complex biological analyses. We learned the importance of interdisciplinary collaboration and the potential of advanced technologies to revolutionize scientific research.
 
